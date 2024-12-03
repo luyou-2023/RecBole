@@ -1,0 +1,6 @@
+__label__sports football basketball soccer
+__label__technology artificial intelligence machine learning
+__label__health fitness diet exercise
+__label__sports baseball hockey tennis
+__label__technology software programming coding
+__label__health nutrition wellness lifestyle
